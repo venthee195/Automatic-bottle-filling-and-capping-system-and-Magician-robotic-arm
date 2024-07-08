@@ -1,0 +1,1677 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="02/25/23||21:00:51" using="Simscape Multibody Link Version 7.4" from="SolidWorks 30.0.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="assemble_robot_simulation" uid="assemble_robot_simulation" version="1672">
+<AssemblyFile name="assemble_robot_simulation.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="puly cang dai 5m-1" uid="puly cang dai 5m-1" entityUid="puly cang dai 5m*:*Default">
+<Transform>
+<Rotation>0.3600293667141875 -1.5816258890187891e-16 0.93294097085688199 0.93294097085688199 9.9669977300703605e-16 -0.3600293667141875 -8.7291887716421061e-16 1 5.0639754732697988e-16</Rotation>
+<Translation>-0.053649793306690695 0.11024448370104224 0.27829068635039195</Translation>
+</Transform>
+</Instance>
+<Instance name="gripper-2" uid="gripper-2" entityUid="gripper*:*Default">
+<Transform>
+<Rotation>-0.36002936671418789 -0.93294097085688155 5.8997601386304279e-13 -0.93294097085688155 0.36002936671418789 1.5289729516554624e-12 -1.6388502005790314e-12 0 -1</Rotation>
+<Translation>-0.20029677190648057 -0.30864627502905617 0.26908525735656907</Translation>
+</Transform>
+</Instance>
+<Instance name="thanh ngang 191mm ver 2-3" uid="thanh ngang 191mm ver 2-3" entityUid="thanh ngang 191mm ver 2*:*Default">
+<Transform>
+<Rotation>0.27330303228060276 -0.23436424096445832 0.9329409708568821 0.70820777371866472 -0.60730602199207118 -0.36002936671418756 0.65095867901939863 0.75911316561453435 2.3125851471299959e-16</Rotation>
+<Translation>-0.15720055380985792 -0.24418978981752759 0.28729350955074268</Translation>
+</Transform>
+</Instance>
+<Instance name="mat bich 14mm-1" uid="mat bich 14mm-1" entityUid="mat bich 14mm*:*Default">
+<Transform>
+<Rotation>0.9142680935695624 0.40510968030976224 4.0026962704603023e-16 0.40510968030976224 -0.9142680935695624 5.2126564435267433e-16 5.7712350737334804e-16 -3.1442344625530401e-16 -0.99999999999999978</Rotation>
+<Translation>-0.02018603638752332 0.084468002698835185 0.19926166218469815</Translation>
+</Transform>
+</Instance>
+<Instance name="end manipulator-1" uid="end manipulator-1" entityUid="end manipulator*:*Default">
+<Transform>
+<Rotation>0.93294097085688155 0.36002936671418795 -5.8997601386304259e-13 -0.36002936671418795 0.93294097085688155 -1.5289729516554622e-12 0 1.638850200579031e-12 0.99999999999999989</Rotation>
+<Translation>-0.20409124344189714 -0.36291967538104569 0.2565852573564385</Translation>
+</Transform>
+</Instance>
+<Instance name="Joint1_Magic ver9-1" uid="Joint1_Magic ver9-1" entityUid="Joint1_Magic ver9*:*Default">
+<Transform>
+<Rotation>-0.93294097085688166 -3.7816916528257327e-16 0.36002936671418762 0.36002936671418762 -3.7691950116740203e-16 0.93294097085688166 -2.1710741889933323e-16 1 4.877956504415254e-16</Rotation>
+<Translation>-0.016752205234086184 0.12886296375554526 0.19222642382784358</Translation>
+</Transform>
+</Instance>
+<Instance name="puly cang dai 5m-2" uid="puly cang dai 5m-2" entityUid="puly cang dai 5m*:*Default">
+<Transform>
+<Rotation>-0.3600293667141875 1.1290007277571535e-16 0.93294097085688166 -0.93294097085688166 -3.1046999419600893e-16 -0.3600293667141875 2.4900283610372851e-16 -1 2.1710741889933503e-16</Rotation>
+<Translation>-0.0032709808804131609 0.090802897898490983 0.27829068635039222</Translation>
+</Transform>
+</Instance>
+<Instance name="quan xi ver 3-1" uid="quan xi ver 3-1" entityUid="quan xi ver 3*:*Default">
+<Transform>
+<Rotation>0.23142241604689942 -0.27579849573127629 0.93294097085688177 0.59968289663502927 -0.71467424648353006 -0.36002936671418773 0.76604444311961206 0.64278760968578363 -3.1110963543349377e-16</Rotation>
+<Translation>-0.089491980290322695 -0.079847356158376348 0.36229522867770014</Translation>
+</Transform>
+</Instance>
+<Instance name="hf-kp13_b.stp-2" uid="hf-kp13_b.stp-2" entityUid="hf-kp13_b.stp*:*Default">
+<Transform>
+<Rotation>0.36002936671418762 2.5148363074521533e-16 -0.93294097085688166 0.93294097085688166 0 0.36002936671418762 1.3592140382101399e-16 -1 -2.1710691258268717e-16</Rotation>
+<Translation>0.043185187066466256 0.12646905075653347 0.22116166218469779</Translation>
+</Transform>
+</Instance>
+<Instance name="hf-kp13_b.stp-1" uid="hf-kp13_b.stp-1" entityUid="hf-kp13_b.stp*:*Default">
+<Transform>
+<Rotation>-0.36002936671418762 7.8792865672217606e-16 0.93294097085688166 -0.93294097085688166 1.4387271186043829e-15 -0.36002936671418762 -1.6259249301245425e-15 -1 2.1710691258268175e-16</Rotation>
+<Translation>-0.038913618368938405 0.15815163502738516 0.22116166218469777</Translation>
+</Transform>
+</Instance>
+<Instance name="half of revolute joint-3" uid="half of revolute joint-3" entityUid="half of revolute joint*:*Default">
+<Transform>
+<Rotation>0.63458386200493455 -1.7445571567813965e-16 0.77285401084739291 0.77285401084739291 1.5096130611138588e-16 -0.63458386200493455 0 1 2.3062640822257501e-16</Rotation>
+<Translation>-0.020186036387557147 0.084468002698820002 0.17646166218469828</Translation>
+</Transform>
+</Instance>
+<Instance name="hf-kp23b_b-1" uid="hf-kp23b_b-1" entityUid="hf-kp23b_b*:*Default">
+<Transform>
+<Rotation>0.7728540108473928 -0.63458386200493477 -1.2205131286026853e-16 -0.63458386200493477 -0.7728540108473928 0 -1.5766352939429607e-16 0 -1</Rotation>
+<Translation>0.12139381216765484 0.25690785316656217 0.17646166218469836</Translation>
+</Transform>
+</Instance>
+<Instance name="keo joint 3 ver 2-1" uid="keo joint 3 ver 2-1" entityUid="keo joint 3 ver 2*:*Default">
+<Transform>
+<Rotation>-0.02350957340307426 0.35926097040316429 -0.93294097085688221 -0.060920153362119443 0.930949832170197 0.36002936671418601 0.99786573990329042 0.065299043846435367 -2.8796409701214998e-16</Rotation>
+<Translation>-0.027021300331620039 0.018148696588012228 0.23416166218469803</Translation>
+</Transform>
+</Instance>
+<Instance name="thanh ngang 191mm ver 2-1" uid="thanh ngang 191mm ver 2-1" entityUid="thanh ngang 191mm ver 2*:*Default">
+<Transform>
+<Rotation>-0.21862318466063005 0.28605077875346369 -0.93294097085688166 -0.56651635951415913 0.74124089843060137 0.36002936671418762 0.79452068414338217 0.60723708917385133 -2.248201624865942e-15</Rotation>
+<Translation>-0.033794424826821504 0.017262865120322188 0.28405494917994495</Translation>
+</Transform>
+</Instance>
+<Instance name="join4 ver2-1" uid="join4 ver2-1" entityUid="join4 ver2*:*Default">
+<Transform>
+<Rotation>-0.36002936671418828 -5.908605751234878e-13 -0.93294097085688155 -0.93294097085688166 -1.5291076027965185e-12 0.36002936671418834 -1.6392942897888819e-12 1 -7.035931044388362e-16</Rotation>
+<Translation>-0.13777214524302001 -0.21884308425897839 0.26158200516300428</Translation>
+</Transform>
+</Instance>
+<Instance name="Base_Magic ver 3-1" uid="Base_Magic ver 3-1" grounded="true" entityUid="Base_Magic ver 3*:*Default">
+<Transform>
+<Rotation>0.63458386200493455 0 -0.77285401084739291 0.77285401084739291 0 0.63458386200493455 0 -1 0</Rotation>
+<Translation>0.045243748727063479 0.16416537186487598 0.078961662184698356</Translation>
+</Transform>
+</Instance>
+<Instance name="pulley 5M 10 rang truc 8mm-1" uid="pulley 5M 10 rang truc 8mm-1" entityUid="pulley 5M 10 rang truc 8mm*:*Default">
+<Transform>
+<Rotation>-0.23917589946890738 -0.26910227425619831 -0.93294097085688177 -0.61977443088199446 -0.69732238593657714 0.36002936671418762 -0.7474453451177141 0.66432330687840635 -2.702849290318764e-16</Rotation>
+<Translation>0.034322247843340481 0.12988932974035733 0.2211616621846775</Translation>
+</Transform>
+</Instance>
+<Instance name="half of revolute joint-4" uid="half of revolute joint-4" entityUid="half of revolute joint*:*Default">
+<Transform>
+<Rotation>0.93294097085688166 1.7445573378261236e-16 0.36002936671418762 -0.36002936671418762 -1.5096134448326322e-16 0.93294097085688166 2.1710741889933165e-16 -1 0</Rotation>
+<Translation>-0.020186036387523355 0.084468002698835157 0.18616166218469826</Translation>
+</Transform>
+</Instance>
+<Instance name="pulley 40 rang truc 13.8mm khoang cach truc 15mm-1" uid="pulley 40 rang truc 13.8mm khoang cach truc 15mm-1" entityUid="pulley 40 rang truc 13.8mm khoang cach truc 15mm*:*Default">
+<Transform>
+<Rotation>0.35926097040316379 -0.02350957340307569 0.93294097085688243 0.93094983217019689 -0.060920153362123516 -0.36002936671418562 0.065299043846439697 0.99786573990329019 1.8388068845354155e-16</Rotation>
+<Translation>-0.026088359360763921 0.017788667221296045 0.23416166218469819</Translation>
+</Transform>
+</Instance>
+<Instance name="pulley 40 rang truc 8mm khoang cach lo 12 mm-1" uid="pulley 40 rang truc 8mm khoang cach lo 12 mm-1" entityUid="pulley 40 rang truc 8mm khoang cach lo 12 mm*:*Default">
+<Transform>
+<Rotation>0.28605077875324297 -0.21862318466092057 0.93294097085688132 0.74124089843002439 -0.56651635951491341 -0.36002936671418861 0.60723708917465968 0.79452068414276433 7.4940054162198066e-16</Rotation>
+<Translation>-0.075534230816118292 0.036870223657303608 0.2341616621847703</Translation>
+</Transform>
+</Instance>
+<Instance name="thanh ngang 191mm ver 2-2" uid="thanh ngang 191mm ver 2-2" entityUid="thanh ngang 191mm ver 2*:*Default">
+<Transform>
+<Rotation>-0.21862318466056183 0.28605077875351687 -0.93294097085688121 -0.56651635951398516 0.74124089843073382 0.36002936671418839 0.79452068414352495 0.60723708917366448 -2.7755575615628914e-16</Rotation>
+<Translation>-0.037840762829726704 0.056773546221045509 0.27246388434069402</Translation>
+</Transform>
+</Instance>
+<Instance name="SMC MHZ2-16 BODY-1" uid="SMC MHZ2-16 BODY-1" entityUid="SMC MHZ2-16 BODY*:*Default">
+<Transform>
+<Rotation>0.36002936671418778 -0.93294097085688166 -5.9064522201291347e-13 0.93294097085688177 0.36002936671418789 -1.5297857217516236e-12 1.6398494013011941e-12 -2.5853862642018324e-16 0.99999999999999978</Rotation>
+<Translation>-0.17419080453628627 -0.28543892775137791 0.26208525735661986</Translation>
+</Transform>
+</Instance>
+<Instance name="SMC MHZ2-16 GRIPPER-1" uid="SMC MHZ2-16 GRIPPER-1" entityUid="SMC MHZ2-16 GRIPPER*:*Default">
+<Transform>
+<Rotation>0.36002936671418762 -0.93294097085688166 -5.8938608608986106e-13 0.93294097085688166 0.36002936671418762 -1.529141108244416e-12 1.6387946894278e-12 6.7327745165550767e-16 0.99999999999999989</Rotation>
+<Translation>-0.16546566025786702 -0.3156030099903831 0.26158525735657884</Translation>
+</Transform>
+</Instance>
+<Instance name="SMC MHZ2-16 GRIPPER-2" uid="SMC MHZ2-16 GRIPPER-2" entityUid="SMC MHZ2-16 GRIPPER*:*Default">
+<Transform>
+<Rotation>0.36002936671418762 0.93294097085688166 5.8976646054155619e-13 0.93294097085688166 -0.36002936671418762 1.5284588074837848e-12 1.6382950890667182e-12 0 -0.99999999999999989</Rotation>
+<Translation>-0.20091741715042316 -0.30192189405522912 0.26158525735657889</Translation>
+</Transform>
+</Instance>
+<Instance name="gripper-1" uid="gripper-1" entityUid="gripper*:*Default">
+<Transform>
+<Rotation>-0.36002936671418773 0.93294097085688166 -5.9039741809113743e-13 -0.93294097085688166 -0.36002936671418773 -1.5296433458598151e-12 -1.6396273566962684e-12 0 1</Rotation>
+<Translation>-0.17044266083906334 -0.32016721476391985 0.25408525735656878</Translation>
+</Transform>
+</Instance>
+<Instance name="pulley 5M 10 rang truc 8mm-2" uid="pulley 5M 10 rang truc 8mm-2" entityUid="pulley 5M 10 rang truc 8mm*:*Default">
+<Transform>
+<Rotation>0.29092960667767903 -0.21208750282605002 0.93294097085688155 0.75388336285454782 -0.5495805039432341 -0.36002936671418728 0.58908389824327145 0.80807187850494511 2.9494453978849928e-16</Rotation>
+<Translation>-0.030050679145786904 0.15473135604362953 0.22116166218467748</Translation>
+</Transform>
+</Instance>
+<Instance name="joint 2 magic ver 2-1" uid="joint 2 magic ver 2-1" entityUid="joint 2 magic ver 2*:*Default">
+<Transform>
+<Rotation>0.28605077875346568 -0.21862318466062855 0.93294097085688144 0.74124089843060426 -0.5665163595141548 -0.36002936671418839 0.60723708917384678 0.7945206841433855 1.8542946558155768e-15</Rotation>
+<Translation>-0.051194761981238651 0.01105923940383375 0.24133432297084498</Translation>
+</Transform>
+</Instance>
+<Instance name="joint 3 ver 2-1" uid="joint 3 ver 2-1" entityUid="joint 3 ver 2*:*Default">
+<Transform>
+<Rotation>0.27330303228060127 -0.23436424096446265 0.9329409708568811 0.70820777371865851 -0.60730602199207717 -0.36002936671418911 0.65095867901940596 0.75911316561452802 1.1102230246251565e-15</Rotation>
+<Translation>-0.084638325106421566 -0.083935428845092266 0.38591511285599917</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Coincident name="Coincident55">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>half of revolute joint-3</Uid>
+</InstancePath>
+<Position>0 0.0048499999999999932 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>half of revolute joint-4</Uid>
+</InstancePath>
+<Position>0 0.0048499999999999932 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric31">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>half of revolute joint-3</Uid>
+</InstancePath>
+<Position>-0.029253007537685869 0 0.029253007537689085</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Base_Magic ver 3-1</Uid>
+</InstancePath>
+<Position>-0.13236812467984715 -0.097500000000000003 -0.029259999999999994</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Parallel name="Parallel19">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>half of revolute joint-3</Uid>
+</InstancePath>
+<Position>-0.027783753982121125 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Base_Magic ver 3-1</Uid>
+</InstancePath>
+<Position>-0.14736812467984728 -0.097500000000000003 -0.067500000000000032</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincident63">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>half of revolute joint-3</Uid>
+</InstancePath>
+<Position>0.024486874585021828 0 -0.035083973076748959</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base_Magic ver 3-1</Uid>
+</InstancePath>
+<Position>0.091690481051547063 -0.097500000000000003 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric35">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Base_Magic ver 3-1</Uid>
+</InstancePath>
+<Position>0.11999999999999997 -0.097500000000000003 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>hf-kp23b_b-1</Uid>
+</InstancePath>
+<Position>0 -1.2212453270876722e-15 0.0030000000000000027</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident71">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base_Magic ver 3-1</Uid>
+</InstancePath>
+<Position>0.091690481051547063 -0.097500000000000003 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>hf-kp23b_b-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Parallel name="Parallel23">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Base_Magic ver 3-1</Uid>
+</InstancePath>
+<Position>0.06500000000000003 -0.097500000000000003 0.054999999999999993</Position>
+<Axis>-1.1102230246251565e-16 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>hf-kp23b_b-1</Uid>
+</InstancePath>
+<Position>0.029999999999999999 0.029999999999999999 -0.0070000000000000062</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincident102">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>hf-kp13_b.stp-1</Uid>
+</InstancePath>
+<Position>0 0 0.003500000000000017</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pulley 5M 10 rang truc 8mm-2</Uid>
+</InstancePath>
+<Position>0 0 -0.0060000000000000053</Position>
+<Axis>-1.1823592803291905e-16 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric49">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>hf-kp13_b.stp-1</Uid>
+</InstancePath>
+<Position>0 -1.1102230246251565e-16 0.014250000000000013</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pulley 5M 10 rang truc 8mm-2</Uid>
+</InstancePath>
+<Position>0 0 0.016999999999999987</Position>
+<Axis>-1.1823592803291905e-16 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Parallel name="Parallel46">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>pulley 40 rang truc 8mm khoang cach lo 12 mm-1</Uid>
+</InstancePath>
+<Position>1.3877787807814457e-16 0.011999999999999983 0.017000000000000001</Position>
+<Axis>-6.9944050551384862e-15 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>joint 2 magic ver 2-1</Uid>
+</InstancePath>
+<Position>0.025314327485380095 -0.015000000000000013 0</Position>
+<Axis>-2.2204460492503131e-16 1 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Distance name="Distance20">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pulley 40 rang truc 8mm khoang cach lo 12 mm-1</Uid>
+</InstancePath>
+<Position>0 0 0.017000000000000001</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>joint 2 magic ver 2-1</Uid>
+</InstancePath>
+<Position>0.007814327485380107 -0.015000000000000041 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Distance>
+<Parallel name="Parallel47">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>pulley 40 rang truc 13.8mm khoang cach truc 15mm-1</Uid>
+</InstancePath>
+<Position>0 0.014999999999999986 0.017000000000000001</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>keo joint 3 ver 2-1</Uid>
+</InstancePath>
+<Position>-0.015000000000000013 1.0755285551056204e-16 0.0050000000000000044</Position>
+<Axis>1.0000000000000002 -3.4833247397614286e-15 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincident143">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pulley 40 rang truc 13.8mm khoang cach truc 15mm-1</Uid>
+</InstancePath>
+<Position>0 0 -0.00099999999999999742</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>keo joint 3 ver 2-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric83">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>joint 2 magic ver 2-1</Uid>
+</InstancePath>
+<Position>0.0078143274853800793 0.17599999999999991 -0.0089999999999999872</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>joint 3 ver 2-1</Uid>
+</InstancePath>
+<Position>0 0 0.0049999999999999975</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric86">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>joint 2 magic ver 2-1</Uid>
+</InstancePath>
+<Position>0.0078143274853800793 0.17599999999999991 -0.0089999999999999872</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>quan xi ver 3-1</Uid>
+</InstancePath>
+<Position>0.016765578360614292 0.016765578360614208 0.0050000000000000044</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric87">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>joint 3 ver 2-1</Uid>
+</InstancePath>
+<Position>0.030000000000000054 0.03999999999999998 0.0050000000000000044</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>thanh ngang 191mm ver 2-1</Uid>
+</InstancePath>
+<Position>0.19099999999999998 0 0.0049999999999999836</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric88">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>keo joint 3 ver 2-1</Uid>
+</InstancePath>
+<Position>0.050000000000000072 0 0.0050000000000000044</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>thanh ngang 191mm ver 2-1</Uid>
+</InstancePath>
+<Position>0 0 0.0049999999999999975</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric89">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>quan xi ver 3-1</Uid>
+</InstancePath>
+<Position>0.066765578360614225 0.016765578360614208 0.0049999999999999975</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>thanh ngang 191mm ver 2-2</Uid>
+</InstancePath>
+<Position>0.19100000000000003 0 0.0050000000000000044</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Distance12">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>thanh ngang 191mm ver 2-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>quan xi ver 3-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Distance15">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>joint 3 ver 2-1</Uid>
+</InstancePath>
+<Position>-0.15100000000000002 -0.01122285761995051 0.0050000000000000044</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>joint 2 magic ver 2-1</Uid>
+</InstancePath>
+<Position>-0.0096856725146199363 0.18999999999999992 0.0089999999999999941</Position>
+<Axis>1.580192552677734e-16 0 -1</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Distance17">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>quan xi ver 3-1</Uid>
+</InstancePath>
+<Position>0 0 0.0050000000000000044</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>joint 3 ver 2-1</Uid>
+</InstancePath>
+<Position>-0.15099999999999997 -0.01122285761995051 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Distance18">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>thanh ngang 191mm ver 2-1</Uid>
+</InstancePath>
+<Position>0 0 0.0049999999999999975</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>joint 3 ver 2-1</Uid>
+</InstancePath>
+<Position>-0.15100000000000002 -0.01122285761995051 0.0050000000000000044</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Concentric95">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pulley 5M 10 rang truc 8mm-1</Uid>
+</InstancePath>
+<Position>0 0 0.016999999999999991</Position>
+<Axis>0 -1.5351032953369546e-16 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>hf-kp13_b.stp-2</Uid>
+</InstancePath>
+<Position>0 -1.1102230246251565e-16 0.014249999999999995</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident148">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pulley 5M 10 rang truc 8mm-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0059999999999999984</Position>
+<Axis>0 -1.5351032953369546e-16 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>hf-kp13_b.stp-2</Uid>
+</InstancePath>
+<Position>0 0 0.0035000000000000022</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric102">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>joint 3 ver 2-1</Uid>
+</InstancePath>
+<Position>-0.19099999999999998 0 0.0049999999999999836</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>join4 ver2-1</Uid>
+</InstancePath>
+<Position>0 0 0.0070000000000000062</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Distance21">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>join4 ver2-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>joint 3 ver 2-1</Uid>
+</InstancePath>
+<Position>-0.15099999999999997 -0.01122285761995051 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Coincident155">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SMC MHZ2-16 BODY-1</Uid>
+</InstancePath>
+<Position>-0.024999999999999967 0.018999999999999975 -0.004500000000000004</Position>
+<Axis>-1.0000000000000002 -1.6653345369334952e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SMC MHZ2-16 GRIPPER-1</Uid>
+</InstancePath>
+<Position>0 0 0.0040000000000000036</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident156">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SMC MHZ2-16 BODY-1</Uid>
+</InstancePath>
+<Position>-0.026874999999999982 -0.019000000000000017 -0.0045000000000000595</Position>
+<Axis>-1.6653345369334952e-16 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SMC MHZ2-16 GRIPPER-1</Uid>
+</InstancePath>
+<Position>-0.0055499999999999994 0 0.003999999999999948</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident157">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>SMC MHZ2-16 BODY-1</Uid>
+</InstancePath>
+<Position>-0.024999999999999967 0.018999999999999975 -0.004500000000000004</Position>
+<Axis>-1.6653345369334952e-16 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>SMC MHZ2-16 GRIPPER-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0040000000000000036</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident158">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SMC MHZ2-16 BODY-1</Uid>
+</InstancePath>
+<Position>-0.024999999999999967 0.018999999999999975 -0.004500000000000004</Position>
+<Axis>-1.0000000000000002 -1.6653345369334952e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SMC MHZ2-16 GRIPPER-2</Uid>
+</InstancePath>
+<Position>0 0 0.0040000000000000036</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident159">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SMC MHZ2-16 BODY-1</Uid>
+</InstancePath>
+<Position>-0.026875000000000038 0.018999999999999989 -0.004500000000000004</Position>
+<Axis>1.6653345369334952e-16 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SMC MHZ2-16 GRIPPER-2</Uid>
+</InstancePath>
+<Position>-0.0055499999999999439 0 0.0040000000000000036</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident161">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>SMC MHZ2-16 BODY-1</Uid>
+</InstancePath>
+<Position>-0.024999999999999967 0.018999999999999975 -0.004500000000000004</Position>
+<Axis>-1.6653345369334952e-16 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>SMC MHZ2-16 GRIPPER-2</Uid>
+</InstancePath>
+<Position>0 0 0.0040000000000000036</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric105">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SMC MHZ2-16 GRIPPER-1</Uid>
+</InstancePath>
+<Position>-0.017049999999999954 0.0030000000000000165 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>gripper-1</Uid>
+</InstancePath>
+<Position>0.01100000000000001 0.021500000000000023 0.0075000000000000067</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident163">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SMC MHZ2-16 GRIPPER-1</Uid>
+</InstancePath>
+<Position>-0.0060499999999999443 0.0030000000000000096 0.003999999999999948</Position>
+<Axis>1.6653345369267011e-16 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>gripper-1</Uid>
+</InstancePath>
+<Position>0.015000000000000013 0 0.015000000000000013</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric106">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SMC MHZ2-16 GRIPPER-2</Uid>
+</InstancePath>
+<Position>-0.017049999999999954 0.002999999999999961 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>gripper-2</Uid>
+</InstancePath>
+<Position>0.010999999999999954 0.021500000000000019 0.0075000000000000067</Position>
+<Axis>-1.1102230246241345e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident164">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SMC MHZ2-16 GRIPPER-2</Uid>
+</InstancePath>
+<Position>-0.0060499999999999443 0.0029999999999999749 0.0040000000000000036</Position>
+<Axis>1.1102230246263487e-16 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>gripper-2</Uid>
+</InstancePath>
+<Position>0.015000000000000013 0 0.015000000000000013</Position>
+<Axis>-1.1102230246241345e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Parallel name="Parallel55">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>SMC MHZ2-16 BODY-1</Uid>
+</InstancePath>
+<Position>-0.021249999999999936 0.0073000000000000009 0.011799999999999977</Position>
+<Axis>1.0000000000000002 1.6653345369334952e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>gripper-2</Uid>
+</InstancePath>
+<Position>0 0 0.015000000000000013</Position>
+<Axis>1 -1.1102230246261786e-16 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Parallel name="Parallel56">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>SMC MHZ2-16 GRIPPER-1</Uid>
+</InstancePath>
+<Position>-0.0060499999999999443 0.008000000000000014 0.003999999999999948</Position>
+<Axis>-1 -1.6653345369487685e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>gripper-1</Uid>
+</InstancePath>
+<Position>0 0 0.015000000000000013</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Concentric name="Concentric108">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pulley 40 rang truc 8mm khoang cach lo 12 mm-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0010000000000000009</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>joint 2 magic ver 2-1</Uid>
+</InstancePath>
+<Position>0.0078143274853800793 -0.015000000000000013 -0.0090000000000000011</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric111">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pulley 40 rang truc 13.8mm khoang cach truc 15mm-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0010000000000000044</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>keo joint 3 ver 2-1</Uid>
+</InstancePath>
+<Position>0 0 0.0049999999999999975</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Distance24">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>gripper-2</Uid>
+</InstancePath>
+<Position>0.08500000000000002 0.01150000000000001 0.015000000000000013</Position>
+<Axis>1.1102230246261786e-16 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>end manipulator-1</Uid>
+</InstancePath>
+<Position>-0.0049999999999999767 -0.0050000000000000044 0.010000000000000009</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Distance25">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>gripper-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>end manipulator-1</Uid>
+</InstancePath>
+<Position>0 0 0.010000000000000009</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Distance26">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>end manipulator-1</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 0.0050000000000000044 0.010000000000000009</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>gripper-2</Uid>
+</InstancePath>
+<Position>0.014999999999999958 0.011500000000000038 0.015000000000000013</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Concentric114">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>quan xi ver 3-1</Uid>
+</InstancePath>
+<Position>0.016765578360614236 0.056765578360614188 0.0049999999999999975</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>thanh ngang 191mm ver 2-3</Uid>
+</InstancePath>
+<Position>0.19100000000000003 0 0.0050000000000000044</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric115">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>join4 ver2-1</Uid>
+</InstancePath>
+<Position>0.030641777724759123 0.025711504387461614 0.013000000000000005</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>thanh ngang 191mm ver 2-3</Uid>
+</InstancePath>
+<Position>0 0 0.0050000000000000044</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Distance27">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>thanh ngang 191mm ver 2-3</Uid>
+</InstancePath>
+<Position>0 0 0.0050000000000000044</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>quan xi ver 3-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Concentric131">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>half of revolute joint-4</Uid>
+</InstancePath>
+<Position>0 0.00070000000000000617 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>-0.012779927944502015 -0.010964761643145415 -0.042654158124975874</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Parallel name="Parallel66">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>half of revolute joint-4</Uid>
+</InstancePath>
+<Position>-0.027783753982121136 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>0.02872007205549798 0.073935238356854588 0.047345841875024205</Position>
+<Axis>-1 0 1.1102230246251575e-16</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincident188">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>half of revolute joint-4</Uid>
+</InstancePath>
+<Position>0.024486874585021835 0 -0.035083973076748966</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>-0.14257362430292567 -0.0060647616431453999 -0.043647668424413422</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric132">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>mat bich 14mm-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>-0.012779927944502015 -0.010964761643145415 -0.042654158124975874</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Parallel name="Parallel67">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>mat bich 14mm-1</Uid>
+</InstancePath>
+<Position>0.011999999999999997 0 0</Position>
+<Axis>-0.70710678118654757 -0.70710678118654746 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>-0.054279927944502038 0.004035238356854598 0.04234584187502409</Position>
+<Axis>1 0 -1.1102230246251575e-16</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincident192">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>mat bich 14mm-1</Uid>
+</InstancePath>
+<Position>0 0 0.0030000000000000027</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>0 0.0040352383568545702 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident193">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>hf-kp13_b.stp-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>0.031220072055497983 0.010135238356854592 0.00054584187502414172</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric133">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>hf-kp13_b.stp-1</Uid>
+</InstancePath>
+<Position>0 -3.8857805861880479e-16 0.001250000000000015</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>0.026220072055497992 0.028935238356854548 0.019345841875024181</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Parallel name="Parallel68">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>hf-kp13_b.stp-1</Uid>
+</InstancePath>
+<Position>0 -0.01999999999999999 -0.024599999999999969</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>0 0.0040352383568545702 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincident195">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>hf-kp13_b.stp-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>-0.05677992794450204 0.010135238356854592 0.0005458418750241556</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Parallel name="Parallel69">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>hf-kp13_b.stp-2</Uid>
+</InstancePath>
+<Position>0 -0.020000000000000018 -0.024600000000000007</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>0 0.0040352383568545702 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Concentric name="Concentric134">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>hf-kp13_b.stp-2</Uid>
+</InstancePath>
+<Position>0 -3.8857805861880479e-16 0.001250000000000008</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>-0.051779927944502042 0.028935238356854603 0.019345841875024153</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric135">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pulley 40 rang truc 13.8mm khoang cach truc 15mm-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0010000000000000044</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>-0.08379607510525075 0.041935238356854615 -0.10698705170380586</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Distance32">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pulley 40 rang truc 8mm khoang cach lo 12 mm-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0010000000000000009</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>0.028720072055497967 0.10393523835685461 0.042345841875024118</Position>
+<Axis>-1 0 1.1102230246251575e-16</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Concentric136">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>puly cang dai 5m-1</Uid>
+</InstancePath>
+<Position>0 0 0.028000000000000011</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>0.028720072055497883 0.08606426252254859 -0.030654158124975836</Position>
+<Axis>1 0 -1.3877787807814459e-15</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident198">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>puly cang dai 5m-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0010000000000000009</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>0.028720072055497967 0.10393523835685461 0.042345841875024118</Position>
+<Axis>-1 0 1.1102230246251575e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric137">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>thanh ngang 191mm ver 2-2</Uid>
+</InstancePath>
+<Position>0 0 0.0049999999999999975</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>0.02872007205549798 0.08023746051280331 -0.07484767121947869</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric139">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pulley 40 rang truc 8mm khoang cach lo 12 mm-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0010000000000000009</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>-0.12479607510525074 0.041935238356854587 -0.10698705170380586</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Distance33">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pulley 40 rang truc 13.8mm khoang cach truc 15mm-1</Uid>
+</InstancePath>
+<Position>0 0 0.017000000000000001</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>-0.054279927944502045 0.10393523835685461 0.042345841875024118</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Concentric140">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>join4 ver2-1</Uid>
+</InstancePath>
+<Position>0.078491777724759126 -0.01829674780626922 -0.0020000000000000018</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SMC MHZ2-16 BODY-1</Uid>
+</InstancePath>
+<Position>-0.0032499999999999196 -0.01199999999999999 -0.011799999999999977</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident202">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>join4 ver2-1</Uid>
+</InstancePath>
+<Position>0.084491777724759132 -0.011296747806269214 0.028000000000000004</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SMC MHZ2-16 BODY-1</Uid>
+</InstancePath>
+<Position>1.1102230246251565e-16 0 -0.011799999999999977</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Parallel name="Parallel73">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>join4 ver2-1</Uid>
+</InstancePath>
+<Position>0.049991777724759101 0.016353252193730794 0.02600000000000003</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>SMC MHZ2-16 BODY-1</Uid>
+</InstancePath>
+<Position>0.021250000000000047 0.0072999999999999871 0.011799999999999977</Position>
+<Axis>1.6653345369334952e-16 1 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincident203">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>-0.054279927944502045 0.10393523835685461 0.042345841875024118</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>puly cang dai 5m-2</Uid>
+</InstancePath>
+<Position>0 0 0.02799999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident204">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>-0.064279927944502033 0.086064262522548535 -0.030654158124975864</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>puly cang dai 5m-2</Uid>
+</InstancePath>
+<Position>0 0 0.02799999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Parallel name="Parallel74">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>puly cang dai 5m-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0010000000000000009</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>0.031220072055497969 0.10393523835685461 -0.13265415812497572</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Parallel name="Parallel75">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Joint1_Magic ver9-1</Uid>
+</InstancePath>
+<Position>-0.061779927944502065 0.10393523835685461 -0.059256698503419809</Position>
+<Axis>-4.4408920985006271e-16 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>puly cang dai 5m-2</Uid>
+</InstancePath>
+<Position>0 0 -0.0010000000000000009</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="Base_Magic ver 3" uid="Base_Magic ver 3*:*Default" version="908">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Base_Magic ver 3.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.0134662110364696</Mass>
+<CenterOfMass>-0.0020697707621750855 -0.047172525378200776 3.4769365370814677e-05</CenterOfMass>
+<Inertia>0.0055816976701500796 0.018203529266481396 0.016447443334390924 -4.6325818377014529e-07 -1.3164059568442938e-08 -9.7686623803289025e-05</Inertia>
+</MassProperties>
+<GeometryFile name="Base_Magic ver 3_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Joint1_Magic ver9" uid="Joint1_Magic ver9*:*Default" version="4291">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Joint1_Magic ver9.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.8743209901909601</Mass>
+<CenterOfMass>-0.012834152977826847 0.025667814485042083 -0.027616385233706738</CenterOfMass>
+<Inertia>0.0042288060508047709 0.0071040901987016224 0.0046273697079905456 0.00028586255522703298 -3.3403519051305533e-07 1.7254582826586159e-06</Inertia>
+</MassProperties>
+<GeometryFile name="Joint1_Magic ver9_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="SMC MHZ2-16 BODY" uid="SMC MHZ2-16 BODY*:*Default" version="184">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="SMC MHZ2-16 BODY.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.029303099554150221</Mass>
+<CenterOfMass>-0.0045897416709842417 1.6736316554404245e-05 -5.1749094349307295e-06</CenterOfMass>
+<Inertia>3.7569792379383958e-06 7.372440977062178e-06 8.3385819255346494e-06 -1.3054417401641968e-08 -4.0051760899573028e-09 -2.6692425117279303e-08</Inertia>
+</MassProperties>
+<GeometryFile name="SMC MHZ2-16 BODY_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.92156862745098034" b="0.92941176470588238" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.92156862745098034" b="0.92941176470588238" a="1"/>
+<Specular r="0.62862744027493045" g="0.64509802822973206" b="0.650588224214666" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000149011612</Shininess>
+</VisualProperties>
+</Part>
+<Part name="SMC MHZ2-16 GRIPPER" uid="SMC MHZ2-16 GRIPPER*:*Default" version="136">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="SMC MHZ2-16 GRIPPER.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0013062886286320317</Mass>
+<CenterOfMass>-0.0073340058725777967 0.0067511030400451656 0</CenterOfMass>
+<Inertia>2.530200396180232e-08 5.7347233272155328e-08 6.6840904864109309e-08 0 0 -7.5479874884297534e-09</Inertia>
+</MassProperties>
+<GeometryFile name="SMC MHZ2-16 GRIPPER_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078432148578124" g="0.49568628189610503" b="0.47058824230642882" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000149011612</Shininess>
+</VisualProperties>
+</Part>
+<Part name="end manipulator" uid="end manipulator*:*Default" version="117">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="end manipulator.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0010000000000000002</Mass>
+<CenterOfMass>0 0 0.0050000000000000001</CenterOfMass>
+<Inertia>1.6666666666666667e-08 1.6666666666666667e-08 1.666666666666667e-08 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="end manipulator_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="gripper" uid="gripper*:*Default" version="114">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="gripper.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.01501106816608626</Mass>
+<CenterOfMass>0.036740799641660445 0.014647724052029866 0.0075000209843350636</CenterOfMass>
+<Inertia>6.4681594927027364e-07 1.0295933305063139e-05 1.0381876702909323e-05 5.7129845454310788e-13 -2.1008658235852636e-12 -7.8635633001881174e-07</Inertia>
+</MassProperties>
+<GeometryFile name="gripper_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="half of revolute joint" uid="half of revolute joint*:*Default" version="138">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="half of revolute joint.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0059343627805259888</Mass>
+<CenterOfMass>1.8250857227418953e-07 0.0016606073580572556 3.7141072310530039e-08</CenterOfMass>
+<Inertia>2.0066182536088418e-06 3.9864826926501022e-06 2.0066278372530799e-06 5.6327783259230397e-13 2.0458215555360262e-11 1.0211596429330178e-12</Inertia>
+</MassProperties>
+<GeometryFile name="half of revolute joint_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="hf-kp13_b.stp" uid="hf-kp13_b.stp*:*Default" version="114">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="hf-kp13_b.stp.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.13222590688149582</Mass>
+<CenterOfMass>-3.2003985432816597e-05 -0.00086477141361232144 -0.040773289277836015</CenterOfMass>
+<Inertia>9.7420427287306109e-05 9.5225326640007113e-05 3.4084314510136292e-05 -1.8152719390362545e-06 3.5054364201994571e-07 -1.4942707602442437e-06</Inertia>
+</MassProperties>
+<GeometryFile name="hf-kp13_b.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="hf-kp23b_b" uid="hf-kp23b_b*:*Default" version="114">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="hf-kp23b_b.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.38197979617985095</Mass>
+<CenterOfMass>0.00014192587087507528 -0.00071450361948593554 -0.055296938096900707</CenterOfMass>
+<Inertia>0.00055509352097696317 0.00054769304569695938 0.00019627529118269031 -5.1754472872066495e-06 2.6592537840336778e-06 1.552082721613924e-06</Inertia>
+</MassProperties>
+<GeometryFile name="hf-kp23b_b_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="join4 ver2" uid="join4 ver2*:*Default" version="555">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="join4 ver2.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.046794672007246109</Mass>
+<CenterOfMass>0.034657515111540679 -0.0005447695035309928 0.010375931237922641</CenterOfMass>
+<Inertia>1.2597314154729359e-05 2.719895448682339e-05 2.8218523959944805e-05 -6.4544843502356683e-07 2.3450698901540058e-07 5.9906763456211574e-06</Inertia>
+</MassProperties>
+<GeometryFile name="join4 ver2_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="joint 2 magic ver 2" uid="joint 2 magic ver 2*:*Default" version="517">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="joint 2 magic ver 2.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.040856772890005229</Mass>
+<CenterOfMass>0.0078143274853800949 0.10633156703395757 0.0025034639605015451</CenterOfMass>
+<Inertia>0.00017619342436315941 6.1911358982230698e-06 0.00017959456303407763 5.7787384623348753e-09 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="joint 2 magic ver 2_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="joint 3 ver 2" uid="joint 3 ver 2*:*Default" version="159">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="joint 3 ver 2.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.032114537397650481</Mass>
+<CenterOfMass>-0.083780184101045194 -0.0022697090748820658 0.0024999999999999996</CenterOfMass>
+<Inertia>2.41042507699803e-05 0.00015728587134891816 0.00018125631154640825 0 0 -4.7220883267758926e-05</Inertia>
+</MassProperties>
+<GeometryFile name="joint 3 ver 2_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="keo joint 3 ver 2" uid="keo joint 3 ver 2*:*Default" version="119">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="keo joint 3 ver 2.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.010462449924883791</Mass>
+<CenterOfMass>0.0154146512629228 0 0.0025000000000000001</CenterOfMass>
+<Inertia>1.0541538792942159e-06 4.3371842592994892e-06 5.3477445972400224e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="keo joint 3 ver 2_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="mat bich 14mm" uid="mat bich 14mm*:*Default" version="252">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="mat bich 14mm.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0030295781442688245</Mass>
+<CenterOfMass>3.9473037028149094e-11 8.5606555990251758e-11 0.0041326753452792147</CenterOfMass>
+<Inertia>2.212039077763808e-07 2.254155349571352e-07 3.6110886816909647e-07 -1.4585637967076994e-15 -8.9514567605559899e-16 1.3430546018554172e-13</Inertia>
+</MassProperties>
+<GeometryFile name="mat bich 14mm_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.5" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="pulley 40 rang truc 13.8mm khoang cach truc 15mm" uid="pulley 40 rang truc 13.8mm khoang cach truc 15mm*:*Default" version="149">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="pulley 40 rang truc 13.8mm khoang cach truc 15mm.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.049841620181044335</Mass>
+<CenterOfMass>0 0 0.0080000000000000019</CenterOfMass>
+<Inertia>1.4016993847703317e-05 1.4016993847703268e-05 2.5207315643648952e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="pulley 40 rang truc 13.8mm khoang cach truc 15mm_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="pulley 40 rang truc 8mm khoang cach lo 12 mm" uid="pulley 40 rang truc 8mm khoang cach lo 12 mm*:*Default" version="147">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="pulley 40 rang truc 8mm khoang cach lo 12 mm.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.051629123569083869</Mass>
+<CenterOfMass>0 0 0.0080000000000000019</CenterOfMass>
+<Inertia>1.4130325748520155e-05 1.4130325748520106e-05 2.5337454262328492e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="pulley 40 rang truc 8mm khoang cach lo 12 mm_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="pulley 5M 10 rang truc 8mm" uid="pulley 5M 10 rang truc 8mm*:*Default" version="127">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="pulley 5M 10 rang truc 8mm.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0023064974527207786</Mass>
+<CenterOfMass>-0.00016494412227762315 0.00016498510972555108 0.0038347318788042183</CenterOfMass>
+<Inertia>1.682098892252774e-07 1.6821058141507803e-07 8.8627970085109144e-08 2.6001443463675325e-09 -2.6004593607996173e-09 -6.2753848043209164e-11</Inertia>
+</MassProperties>
+<GeometryFile name="pulley 5M 10 rang truc 8mm_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="puly cang dai 5m" uid="puly cang dai 5m*:*Default" version="133">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="puly cang dai 5m.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.020389281896989651</Mass>
+<CenterOfMass>0 0 0.013500000000000002</CenterOfMass>
+<Inertia>2.8083535534892281e-06 2.8083535534892276e-06 2.6277861645397894e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="puly cang dai 5m_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="quan xi ver 3" uid="quan xi ver 3*:*Default" version="123">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="quan xi ver 3.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.018574865764532114</Mass>
+<CenterOfMass>0.033167994605536925 0.03211319746416056 0.0025000000000000001</CenterOfMass>
+<Inertia>7.4112256192557558e-06 8.2306882707281805e-06 1.5564518615965055e-05 0 0 2.5872278344380413e-06</Inertia>
+</MassProperties>
+<GeometryFile name="quan xi ver 3_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="thanh ngang 191mm ver 2" uid="thanh ngang 191mm ver 2*:*Default" version="125">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="thanh ngang 191mm ver 2.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.021382884970170109</Mass>
+<CenterOfMass>0.095499999999999988 0.024055292689303891 0.0024999999999999996</CenterOfMass>
+<Inertia>3.2091794275300145e-06 7.9297637988151983e-05 8.2417722061639627e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="thanh ngang 191mm ver 2_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
