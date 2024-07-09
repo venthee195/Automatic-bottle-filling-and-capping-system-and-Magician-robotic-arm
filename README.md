@@ -25,9 +25,8 @@ The hardware of the system includes: control devices (PLC, relay), actuators, mo
 
 Overview of the project:
 
-<p align="center">
-  <img src="images/h3.png" width=600><br/>
-</p>
+
+![h3](https://github.com/venthee195/Automatic-bottle-filling-and-capping-system-and-Magician-robotic-arm/assets/86809706/36d44f60-f2ac-4072-95ff-ea3629c4d001)
 
 Design of the Electrical cabinet:
 
