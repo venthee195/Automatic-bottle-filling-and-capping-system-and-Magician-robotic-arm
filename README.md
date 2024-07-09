@@ -15,7 +15,7 @@ Figure 3-10 presents an overview of the motors’ positions in the system. Each 
 The hardware of the system includes: control devices (PLC, relay), actuators, motors, conveyors, pneumatic cylinders, Camera IMC-3616UC, sensors.
 
 <p align="center">
-  <img src="images/h1.png" width=600><br/>
+  <img src="images/h1.png" width=400><br/>
   <i>Top view of the system</i>
 </p>
 <p align="center">
@@ -48,7 +48,7 @@ Terminal Blocks: These secure and/or terminate multiple wire connections.
 Fans: Two 12V fans, each running at 1500 RPM and measuring 12x12 cm, are installed for cooling purposes.
 
 <p align="center">
-  <img src="images/h5.jpg" width=600><br/>
+  <img src="images/h5.jpg" width=400><br/>
   <i>Magician Robot Arm model by SolidWorks</i>
 </p>
 
@@ -57,12 +57,12 @@ Fans: Two 12V fans, each running at 1500 RPM and measuring 12x12 cm, are install
 The interface is designed by the team using the C# programming language.
 
 <p align="center">
-  <img src="images/h6.png" width=600><br/>
+  <img src="images/h6.png" width=400><br/>
   <i>Product interface without cover</i>
 </p>
 
 <p align="center">
-  <img src="images/h7.png" width=600><br/>
+  <img src="images/h7.png" width=400><br/>
   <i>The product interface has a cap and a filled bottle</i>
 </p>
 
@@ -90,39 +90,39 @@ The interface is designed by the team using the C# programming language.
 # Experimental results
 Initially, empty bottles are placed on the input conveyor and pushed towards the end of the conveyor to fill water into the bottles
 <p align="center">
-  <img src="images/p1.jpg" width=600><br/>
+  <img src="images/p1.jpg" width=400><br/>
   <i>Bottles in the input conveyor</i>
 </p>
 
 <p align="center">
-  <img src="images/p2.jpg" width=600><br/>
+  <img src="images/p2.jpg" width=400><br/>
   <i> Filling water into a bottle</i>
 </p>
 
 <p align="center">
-  <img src="images/p3.jpg" width=600><br/>
+  <img src="images/p3.jpg" width=400><br/>
   <i>Capping a bottle</i>
 </p>
 
 <p align="center">
-  <img src="images/p4.jpg" width=600><br/>
+  <img src="images/p4.jpg" width=400><br/>
   <i>Cap before it is capped</i>
 </p>
 <p align="center">
-  <img src="images/p5.jpg" width=600><br/>
+  <img src="images/p5.jpg" width=400><br/>
   <i>Pneumatic cylinder is capping the bottle</i>
 </p>
 
 <p align="center">
-  <img src="images/p6.jpg" width=600><br/>
+  <img src="images/p6.jpg" width=400><br/>
   <i>Bottles are delivered to the output conveyor</i>
 </p>
 <p align="center">
-  <img src="images/p7.jpg" width=600><br/>
+  <img src="images/p7.jpg" width=400><br/>
   <i>A pneumatic cylinder grips bottle</i>
 </p>
 <p align="center">
-  <img src="images/p8.png" width=600><br/>
+  <img src="images/p8.png" width=400><br/>
   <i>Robotics Arm puts the bottles into the storage</i>
 </p>
 
