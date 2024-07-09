@@ -15,18 +15,19 @@ Figure 3-10 presents an overview of the motors’ positions in the system. Each 
 The hardware of the system includes: control devices (PLC, relay), actuators, motors, conveyors, pneumatic cylinders, Camera IMC-3616UC, sensors.
 
 <p align="center">
-  <img src="images/h1.png" width=400><br/>
+  <img src="images/h1.png" width=600><br/>
   <i>Top view of the system</i>
 </p>
 <p align="center">
-  <img src="images/h2.png" width=600><br/>
+  <img src="images/h2.png" width=600 c><br/>
   <i>Front view of the system</i>
 </p>
 
 Overview of the project:
 
+![h3](https://github.com/venthee195/Automatic-bottle-filling-and-capping-system-and-Magician-robotic-arm/assets/86809706/01c39a15-6d4c-4d97-850b-4169c42b7e03)
 
-![h3](https://github.com/venthee195/Automatic-bottle-filling-and-capping-system-and-Magician-robotic-arm/assets/86809706/36d44f60-f2ac-4072-95ff-ea3629c4d001)
+
 
 Design of the Electrical cabinet:
 
@@ -35,15 +36,20 @@ Design of the Electrical cabinet:
   <i> Left side view of cabinet</i>
 </p>
 <p align="center">
-  <img src="images/cabinet.png" width=600><br/>
+  <img src="images/cabinet.png" width=600 height=600><br/>
   <i> Overview of the actual electrical cabinet</i>
 </p>
 Programmable Logic Controller (PLC): This is the main control unit, responsible for automating various functions.
+
 Circuit Breakers (CB): These are located at the top of the cabinet and protect the circuit from damage caused by excess current from an overload or short circuit.
+
 Servo Drive: Positioned in the middle of the cabinet, this controls the operation of the servo motor.
 Intermediate Relays: These devices control the power circuits.
+
 AC to DC Converters: There are two converters, one for 12V and another for 24V, which convert alternating current (AC) to direct current (DC).
+
 Terminal Blocks: These secure and/or terminate multiple wire connections.
+
 Fans: Two 12V fans, each running at 1500 RPM and measuring 12x12 cm, are installed for cooling purposes.
 
 <p align="center">
@@ -56,12 +62,12 @@ Fans: Two 12V fans, each running at 1500 RPM and measuring 12x12 cm, are install
 The interface is designed by the team using the C# programming language.
 
 <p align="center">
-  <img src="images/h6.png" width=400><br/>
+  <img src="images/h6.png" width=500><br/>
   <i>Product interface without cover</i>
 </p>
 
 <p align="center">
-  <img src="images/h7.png" width=400><br/>
+  <img src="images/h7.png" width=500><br/>
   <i>The product interface has a cap and a filled bottle</i>
 </p>
 
